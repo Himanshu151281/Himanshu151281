@@ -43,8 +43,8 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshu151281&show_icons=true&locale=en" alt="himanshu151281" /></p>
 
-| 	S.No	 | 	Major Project	 | 	Live Link	 |   GitHub Link  |
-| 	:-----:	 | 	:-----:	 | 	:-----:	 | 
+| 	S.No	   | 	Major Project	 | 	Live Link	 |   GitHub Link  |
+| 	:-----:	 | 	:------------: | 	:---------:| 	:----------:  |
 | 	01	| 	Airbnv Project	| 	<a>Link</a>	 | 	Repository	 |
 | 	02	| 	AI Connect	| 	<a>Link</a>	 | 	Repository	 |
 | 	03	| 	Revealing Soon	| 	<a>Link</a>	 | 	Repository	 |
