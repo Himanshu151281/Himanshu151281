@@ -18,11 +18,9 @@
   <img width="12" /></a>
   <a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  /></a>
-
 </p>
 
 <br>
-
 
 # 🌐 Socials:
 <br>
@@ -38,7 +36,7 @@
   </a>
 </div>
 <br>
-
+<br>
 <h1> 🏆 GitHub Trophies </h1>
 <br>
 
