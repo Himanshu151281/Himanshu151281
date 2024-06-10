@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu151281&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu151281" /> </p>
 <br>
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
 <br>
 
@@ -22,7 +22,7 @@
 
 <br>
 
-# 🌐 Socials:
+# 🌐 Socials
 <br>
 <div align="left">
   <a href="https://www.linkedin.com/in/himanshu-kumar151281" target="_blank">
@@ -44,7 +44,7 @@
 
 <br>
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 <br>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu151281&" alt="himanshu151281" /></p>
@@ -60,7 +60,7 @@
 
 <br>
 
-# 🤖 Projects:
+# 🤖 Projects
 
 <div align="center">
   
