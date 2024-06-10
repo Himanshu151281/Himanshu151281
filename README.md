@@ -60,7 +60,7 @@
 
 <br>
 
-# ⌨️🖱️🤖 Projects:
+# 🤖 Projects:
 
 <div align="center">
   
