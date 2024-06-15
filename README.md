@@ -247,7 +247,7 @@
   
 | 	S.No	   | 	Major Project	  | 	Live Link	   |   GitHub Link  |
 | 	:-----:	 | 	:------------:  | 	:---------:  | 	:----------:  |
-| 	01	     |  Airbnv Project	| 	<a>Link</a>	 | 	Repository	  |
+| 	01	     |  Airbnb Project	| 	<a>Link</a>	 | 	Repository	  |
 | 	02	     | 	AI Connect	    | 	<a>Link</a>	 | 	Repository  	|
 | 	03       | 	Revealing Soon	| 	<a>Link</a>	 | 	Repository	  |
 | 	04	     | 	Revealing Soon	| 	<a>Link</a>	 |	Repository	  |
