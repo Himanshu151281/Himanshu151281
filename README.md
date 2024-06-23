@@ -256,7 +256,7 @@
 | 	S.No	   | 	Mini Major Project	| 	Live Link	   |   GitHub Link  |
 | 	:-----:	 | 	:------------:      | 	:---------:  | 	:----------:  |
 | 	01	     | 	Coffee Website      | 	<a href="https://himanshu151281.github.io/Coffee_Website/">Link</a>	 | 	<a href="https://github.com/Himanshu151281/Coffee_Website">Repository</a>  	|
-| 	02	     | 	Revealing Soon	    | 	<a>___</a>	 | 	Repository	  |
+| 	02	     | 	Amazon        	    | 	<a href="https://himanshu151281.github.io/Amazon/">Link</a>	 | 	<a href="https://github.com/Himanshu151281/Amazon">Repository</a>	  |
 | 	03       | 	Revealing Soon	    | 	<a>___</a>	 | 	Repository	  |
 | 	04	     | 	Revealing Soon	    | 	<a>___</a>	 |	Repository	  |
 | 	05	     | 	Revealing Soon	    | 	<a>___</a>	 |  Repository	  |
