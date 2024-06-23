@@ -255,17 +255,18 @@
 
 | 	S.No	   | 	Mini Major Project	| 	Live Link	   |
 | 	:-----:	 | 	:------------:      | 	:---------:  |
-| 	01	     | 	Coffee Website      | 	<a href="https://himanshu151281.github.io/Coffee_Website/">Link</a>	 |
-| 	02	     | 	Amazon        	    | 	<a href="https://himanshu151281.github.io/Amazon/">Link</a>	 |
+| 	01	     | 	Coffee Website      | 	<a href="https://jovial-kleicha-bbe26e.netlify.app/">Link</a>	 |
+| 	02	     | 	Amazon        	    | 	<a href="https://splendorous-donut-ef9268.netlify.app/">Link</a>	 |
 | 	03       | 	Revealing Soon	    | 	<a>___</a>	 |
 | 	04	     | 	Revealing Soon	    | 	<a>___</a>	 |
 | 	05	     | 	Revealing Soon	    | 	<a>___</a>	 |
 
 | 	S.No	   | 	Mini Project	  | 	Live Link	   
 | 	:-----:	 | 	:------------:  | 	:---------:  |
-| 	01	     | 	Spotify Clone 	| 	<a href="https://himanshu151281.github.io/Spotify/">Link</a>|
-| 	02	     | 	Login Form    	| 	<a href="https://himanshu151281.github.io/Login_Form/">Link</a>	 |
-| 	03	     | 	Sidebar Menu  	| 	<a href="https://himanshu151281.github.io/Sidebar_menu/">Link</a>	 |
+| 	01	     | 	Spotify Clone 	| 	<a href="https://rainbow-babka-cf31fd.netlify.app/">Link</a>|
+| 	02	     | 	Login Form    	| 	<a href="https://monumental-travesseiro-ae76ca.netlify.app/">Link</a>	 |
+| 	03	     | 	Sidebar Menu  	| 	<a href="https://vermillion-choux-8dbee7.netlify.app/">Link</a>	 |
+| 	04	     | 	Revealing Soon	| 	<a>___</a>	 |
 | 	05	     | 	Revealing Soon	| 	<a>___</a>	 |
 
 
