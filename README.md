@@ -255,7 +255,7 @@
 
 | 	S.No	   | 	Mini Major Project	| 	Live Link	   |   GitHub Link  |
 | 	:-----:	 | 	:------------:      | 	:---------:  | 	:----------:  |
-| 	01	     | 	Coffee Website      | 	<a>https://himanshu151281.github.io/Coffee_Website/</a>	 | 	Repository  	|
+| 	01	     | 	Coffee Website      | 	<a src="https://himanshu151281.github.io/Coffee_Website/">Link</a>	 | 	Repository  	|
 | 	02	     | 	Revealing Soon	    | 	<a>Link</a>	 | 	Repository	  |
 | 	03       | 	Revealing Soon	    | 	<a>Link</a>	 | 	Repository	  |
 | 	04	     | 	Revealing Soon	    | 	<a>Link</a>	 |	Repository	  |
@@ -263,8 +263,8 @@
 
 | 	S.No	   | 	Mini Project	  | 	Live Link	   |   GitHub Link  |
 | 	:-----:	 | 	:------------:  | 	:---------:  | 	:----------:  |
-| 	01	     | 	Login Form    	| 	<a>https://himanshu151281.github.io/Login_Form/</a>	 | 	Repository  	|
-| 	02	     | 	Sidebar Menu  	| 	<a>https://himanshu151281.github.io/Sidebar_menu/</a>	 | 	Repository	  |
+| 	01	     | 	Login Form    	| 	<a src="https://himanshu151281.github.io/Login_Form/">Link</a>	 | 	Repository  	|
+| 	02	     | 	Sidebar Menu  	| 	<a src="https://himanshu151281.github.io/Sidebar_menu/">Link</a>	 | 	Repository	  |
 | 	03       | 	Revealing Soon	| 	<a>Link</a>	 | 	Repository	  |
 | 	04	     | 	Revealing Soon	| 	<a>Link</a>	 |	Repository	  |
 | 	05	     | 	Revealing Soon	| 	<a>Link</a>	 |  Repository	  |
