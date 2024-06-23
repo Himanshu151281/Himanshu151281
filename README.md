@@ -245,29 +245,29 @@
 
 <div align="center">
   
-| 	S.No	   | 	Major Project	  | 	Live Link	   |
-| 	:-----:	 | 	:------------:  | 	:---------:  |
-| 	01	     |  Airbnb Project	| 	<a href="https://wanderlust-xlp1.onrender.com/listings">Link</a>	 |
-| 	02	     | 	AI Connect	    | 	<a>Soon</a>	 |
-| 	03       | 	ESPORTS        	| 	<a>Soon</a>	 |
-| 	04	     | 	Event Mapper	| 	<a>Soon</a>	 |
-| 	05	     | 	Revealing Soon	| 	<a>___</a>	 |
+| 	S.No	   | 	Major Project	  | 	Live Link	   |   GitHub Link  |
+| 	:-----:	 | 	:------------:  | 	:---------:  | 	:----------:  |
+| 	01	     |  Airbnb Project	| 	<a href="https://wanderlust-xlp1.onrender.com/listings">Link</a>	 |	PVT  |
+| 	02	     | 	AI Connect	    | 	<a>Soon</a>	 | 	Repository  	|
+| 	03       | 	ESPORTS        	| 	<a>Soon</a>	 | 	Repository  	|
+| 	04	     | 	Event Mapper	  | 	<a>Soon</a>	 | 	Repository  	|
+| 	05	     | 	Revealing Soon	| 	<a>___</a>	 | 	Repository  	|
 
-| 	S.No	   | 	Mini Major Project	| 	Live Link	   |
-| 	:-----:	 | 	:------------:      | 	:---------:  |
-| 	01	     | 	Coffee Website      | 	<a href="https://jovial-kleicha-bbe26e.netlify.app/">Link</a>	 |
-| 	02	     | 	Amazon        	    | 	<a href="https://splendorous-donut-ef9268.netlify.app/">Link</a>	 |
-| 	03       | 	Revealing Soon	    | 	<a>___</a>	 |
-| 	04	     | 	Revealing Soon	    | 	<a>___</a>	 |
-| 	05	     | 	Revealing Soon	    | 	<a>___</a>	 |
+| 	S.No	   | 	Mini Major Project	| 	Live Link	   |   GitHub Link  |
+| 	:-----:	 | 	:------------:      | 	:---------:  | 	:----------:  |
+| 	01	     | 	Coffee Website      | 	<a href="https://jovial-kleicha-bbe26e.netlify.app/">Link</a>	 |	PVT  |
+| 	02	     | 	Amazon        	    | 	<a href="https://splendorous-donut-ef9268.netlify.app/">Link</a>	 |	PVT  |
+| 	03       | 	Revealing Soon	    | 	<a>___</a>	 | 	Repository  	|
+| 	04	     | 	Revealing Soon	    | 	<a>___</a>	 | 	Repository  	|
+| 	05	     | 	Revealing Soon	    | 	<a>___</a>	 | 	Repository  	|
 
-| 	S.No	   | 	Mini Project	  | 	Live Link	   
-| 	:-----:	 | 	:------------:  | 	:---------:  |
-| 	01	     | 	Spotify Clone 	| 	<a href="https://rainbow-babka-cf31fd.netlify.app/">Link</a>|
-| 	02	     | 	Login Form    	| 	<a href="https://monumental-travesseiro-ae76ca.netlify.app/">Link</a>	 |
-| 	03	     | 	Sidebar Menu  	| 	<a href="https://vermillion-choux-8dbee7.netlify.app/">Link</a>	 |
-| 	04	     | 	Revealing Soon	| 	<a>___</a>	 |
-| 	05	     | 	Revealing Soon	| 	<a>___</a>	 |
+| 	S.No	   | 	Mini Project	  | 	Live Link	   |   GitHub Link  |
+| 	:-----:	 | 	:------------:  | 	:---------:  | 	:----------:  |
+| 	01	     | 	Spotify Clone 	| 	<a href="https://rainbow-babka-cf31fd.netlify.app/">Link</a>|	PVT  |
+| 	02	     | 	Login Form    	| 	<a href="https://monumental-travesseiro-ae76ca.netlify.app/">Link</a>	 |	PVT  |
+| 	03	     | 	Sidebar Menu  	| 	<a href="https://vermillion-choux-8dbee7.netlify.app/">Link</a>	 |	PVT  |
+| 	04	     | 	Revealing Soon	| 	<a>___</a>	 | 	Repository  	|
+| 	05	     | 	Revealing Soon	| 	<a>___</a>	 | 	Repository  	|
 
 
 </div>
