@@ -245,29 +245,28 @@
 
 <div align="center">
   
-| 	S.No	   | 	Major Project	  | 	Live Link	   |   GitHub Link  |
-| 	:-----:	 | 	:------------:  | 	:---------:  | 	:----------:  |
-| 	01	     |  Airbnb Project	| 	<a href="https://wanderlust-xlp1.onrender.com/listings">Link</a>	 | 	PVT  |
-| 	02	     | 	AI Connect	    | 	<a>Soon</a>	 | 	Repository  	|
-| 	03       | 	ESPORTS        	| 	<a>Soon</a>	 | 	Repository	  |
-| 	04	     | 	Event Mapper	| 	<a>Soon</a>	 |	Repository	  |
-| 	05	     | 	Revealing Soon	| 	<a>___</a>	 |  Repository	  |
+| 	S.No	   | 	Major Project	  | 	Live Link	   |
+| 	:-----:	 | 	:------------:  | 	:---------:  |
+| 	01	     |  Airbnb Project	| 	<a href="https://wanderlust-xlp1.onrender.com/listings">Link</a>	 |
+| 	02	     | 	AI Connect	    | 	<a>Soon</a>	 |
+| 	03       | 	ESPORTS        	| 	<a>Soon</a>	 |
+| 	04	     | 	Event Mapper	| 	<a>Soon</a>	 |
+| 	05	     | 	Revealing Soon	| 	<a>___</a>	 |
 
-| 	S.No	   | 	Mini Major Project	| 	Live Link	   |   GitHub Link  |
-| 	:-----:	 | 	:------------:      | 	:---------:  | 	:----------:  |
-| 	01	     | 	Coffee Website      | 	<a href="https://himanshu151281.github.io/Coffee_Website/">Link</a>	 | 	<a href="https://github.com/Himanshu151281/Coffee_Website">Repository</a>  	|
-| 	02	     | 	Amazon        	    | 	<a href="https://himanshu151281.github.io/Amazon/">Link</a>	 | 	<a href="https://github.com/Himanshu151281/Amazon">Repository</a>	  |
-| 	03       | 	Revealing Soon	    | 	<a>___</a>	 | 	Repository	  |
-| 	04	     | 	Revealing Soon	    | 	<a>___</a>	 |	Repository	  |
-| 	05	     | 	Revealing Soon	    | 	<a>___</a>	 |  Repository	  |
+| 	S.No	   | 	Mini Major Project	| 	Live Link	   |
+| 	:-----:	 | 	:------------:      | 	:---------:  |
+| 	01	     | 	Coffee Website      | 	<a href="https://himanshu151281.github.io/Coffee_Website/">Link</a>	 |
+| 	02	     | 	Amazon        	    | 	<a href="https://himanshu151281.github.io/Amazon/">Link</a>	 |
+| 	03       | 	Revealing Soon	    | 	<a>___</a>	 |
+| 	04	     | 	Revealing Soon	    | 	<a>___</a>	 |
+| 	05	     | 	Revealing Soon	    | 	<a>___</a>	 |
 
-| 	S.No	   | 	Mini Project	  | 	Live Link	   |   GitHub Link  |
-| 	:-----:	 | 	:------------:  | 	:---------:  | 	:----------:  |
-| 	01	     | 	Spotify Clone 	| 	<a href="https://himanshu151281.github.io/Spotify/">Link</a>|  <a href="https://github.com/Himanshu151281/Spotify">Repository</a>	  |
-| 	02	     | 	Login Form    	| 	<a href="https://himanshu151281.github.io/Login_Form/">Link</a>	 | 	<a href="https://github.com/Himanshu151281/Login_Form">Repository</a>  	|
-| 	03	     | 	Sidebar Menu  	| 	<a href="https://himanshu151281.github.io/Sidebar_menu/">Link</a>	 | 	<a href="https://github.com/Himanshu151281/Sidebar_menu">Repository</a>	  |
-| 	04       | 	Revealing Soon	| 	<a>___</a>   | 	Repository	  |
-| 	05	     | 	Revealing Soon	| 	<a>___</a>	 |	Repository	  |
+| 	S.No	   | 	Mini Project	  | 	Live Link	   
+| 	:-----:	 | 	:------------:  | 	:---------:  |
+| 	01	     | 	Spotify Clone 	| 	<a href="https://himanshu151281.github.io/Spotify/">Link</a>|
+| 	02	     | 	Login Form    	| 	<a href="https://himanshu151281.github.io/Login_Form/">Link</a>	 |
+| 	03	     | 	Sidebar Menu  	| 	<a href="https://himanshu151281.github.io/Sidebar_menu/">Link</a>	 |
+| 	05	     | 	Revealing Soon	| 	<a>___</a>	 |
 
 
 </div>
