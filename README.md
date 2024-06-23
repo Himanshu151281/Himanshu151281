@@ -250,7 +250,7 @@
 | 	01	     |  Airbnb Project	| 	<a href="https://wanderlust-xlp1.onrender.com/listings">Link</a>	 | 	Repository	  |
 | 	02	     | 	AI Connect	    | 	<a>Soon</a>	 | 	Repository  	|
 | 	03       | 	ESPORTS        	| 	<a>Soon</a>	 | 	Repository	  |
-| 	04	     | 	Revealing Soon	| 	<a>___</a>	 |	Repository	  |
+| 	04	     | 	Event Mapper	| 	<a>Soon</a>	 |	Repository	  |
 | 	05	     | 	Revealing Soon	| 	<a>___</a>	 |  Repository	  |
 
 | 	S.No	   | 	Mini Major Project	| 	Live Link	   |   GitHub Link  |
