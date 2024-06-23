@@ -247,27 +247,27 @@
   
 | 	S.No	   | 	Major Project	  | 	Live Link	   |   GitHub Link  |
 | 	:-----:	 | 	:------------:  | 	:---------:  | 	:----------:  |
-| 	01	     |  Airbnb Project	| 	<a>Link</a>	 | 	Repository	  |
-| 	02	     | 	AI Connect	    | 	<a>Link</a>	 | 	Repository  	|
-| 	03       | 	Revealing Soon	| 	<a>Link</a>	 | 	Repository	  |
-| 	04	     | 	Revealing Soon	| 	<a>Link</a>	 |	Repository	  |
-| 	05	     | 	Revealing Soon	| 	<a>Link</a>	 |  Repository	  |
+| 	01	     |  Airbnb Project	| 	<a href="https://wanderlust-xlp1.onrender.com/listings">Link</a>	 | 	Repository	  |
+| 	02	     | 	AI Connect	    | 	<a>Soon</a>	 | 	Repository  	|
+| 	03       | 	ESPORTS        	| 	<a>Soon</a>	 | 	Repository	  |
+| 	04	     | 	Revealing Soon	| 	<a>___</a>	 |	Repository	  |
+| 	05	     | 	Revealing Soon	| 	<a>___</a>	 |  Repository	  |
 
 | 	S.No	   | 	Mini Major Project	| 	Live Link	   |   GitHub Link  |
 | 	:-----:	 | 	:------------:      | 	:---------:  | 	:----------:  |
 | 	01	     | 	Coffee Website      | 	<a href="https://himanshu151281.github.io/Coffee_Website/">Link</a>	 | 	Repository  	|
-| 	02	     | 	Revealing Soon	    | 	<a>Link</a>	 | 	Repository	  |
-| 	03       | 	Revealing Soon	    | 	<a>Link</a>	 | 	Repository	  |
-| 	04	     | 	Revealing Soon	    | 	<a>Link</a>	 |	Repository	  |
-| 	05	     | 	Revealing Soon	    | 	<a>Link</a>	 |  Repository	  |
+| 	02	     | 	Revealing Soon	    | 	<a>___</a>	 | 	Repository	  |
+| 	03       | 	Revealing Soon	    | 	<a>___</a>	 | 	Repository	  |
+| 	04	     | 	Revealing Soon	    | 	<a>___</a>	 |	Repository	  |
+| 	05	     | 	Revealing Soon	    | 	<a>___</a>	 |  Repository	  |
 
 | 	S.No	   | 	Mini Project	  | 	Live Link	   |   GitHub Link  |
 | 	:-----:	 | 	:------------:  | 	:---------:  | 	:----------:  |
 | 	01	     | 	Login Form    	| 	<a href="https://himanshu151281.github.io/Login_Form/">Link</a>	 | 	Repository  	|
 | 	02	     | 	Sidebar Menu  	| 	<a href="https://himanshu151281.github.io/Sidebar_menu/">Link</a>	 | 	Repository	  |
-| 	03       | 	Revealing Soon	| 	<a>Link</a>	 | 	Repository	  |
-| 	04	     | 	Revealing Soon	| 	<a>Link</a>	 |	Repository	  |
-| 	05	     | 	Revealing Soon	| 	<a>Link</a>	 |  Repository	  |
+| 	03       | 	Revealing Soon	| 	<a>___</a>	 | 	Repository	  |
+| 	04	     | 	Revealing Soon	| 	<a>___</a>	 |	Repository	  |
+| 	05	     | 	Revealing Soon	| 	<a>___</a>	 |  Repository	  |
 
 </div>
 
