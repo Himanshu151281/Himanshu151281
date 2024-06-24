@@ -220,7 +220,7 @@
 </p>
 
 <br />
-
+<!--
 <p align="center">
   <img
     align="center"
@@ -230,6 +230,7 @@
 </p>
 
 <br />
+-->
 
 <p align="center">
   &nbsp;<img
