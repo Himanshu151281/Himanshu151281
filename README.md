@@ -254,6 +254,8 @@
 | 	04	     | 	Event Mapper	  | 	<a>Soon</a>	 | 	Repository  	|
 | 	05	     | 	Revealing Soon	| 	<a>___</a>	 | 	Repository  	|
 
+<br></br>
+
 | 	S.No	   | 	Mini Major Project	| 	Live Link	   |   GitHub Link  |
 | 	:-----:	 | 	:------------:      | 	:---------:  | 	:----------:  |
 | 	01	     | 	Coffee Website      | 	<a href="https://jovial-kleicha-bbe26e.netlify.app/">Link</a>	 |	PVT  |
@@ -261,6 +263,8 @@
 | 	03       | 	Revealing Soon	    | 	<a>___</a>	 | 	Repository  	|
 | 	04	     | 	Revealing Soon	    | 	<a>___</a>	 | 	Repository  	|
 | 	05	     | 	Revealing Soon	    | 	<a>___</a>	 | 	Repository  	|
+
+<br></br>
 
 | 	S.No	   | 	Mini Project	  | 	Live Link	   |   GitHub Link  |
 | 	:-----:	 | 	:------------:  | 	:---------:  | 	:----------:  |
