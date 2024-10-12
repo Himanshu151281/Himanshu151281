@@ -250,8 +250,8 @@
 | 	:-----:	 | 	:------------:  | 	:---------:  | 	:----------:  |
 | 	01	     |  Airbnb Project	| 	<a>Soon</a>	 |		PVT   |
 | 	02	     | 	AI Connect	    | 	<a>Soon</a>	 |   	PVT  	|
-| 	03       | 	ESPORTS        	| 	<a>Soon</a>	 |  	PVT  	|
-| 	04	     | 	Event Mapper	  | 	<a>Soon</a>	 |  	PVT  	|
+| 	03       | 	Event Mapper   	| 	<a>Soon</a>	 |  	PVT  	|
+| 	04	     | 	ESPORTS     	  | 	<a>Soon</a>	 |  	PVT  	|
 | 	05	     | 	Revealing Soon	| 	<a>___</a>	 | 	Repository  	|
 <!-- | 	01	     |  Airbnb Project	| 	<a href="https://wanderlust-xlp1.onrender.com/listings">Link</a>	 |	PVT  | -->
 
