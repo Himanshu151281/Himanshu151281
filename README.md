@@ -263,7 +263,7 @@
 | 	02	     | 	Amazon        	    | 	<a href="https://splendorous-donut-ef9268.netlify.app/">Link</a>	 |	PVT  |
 | 	03       | 	Revealing Soon	    | 	<a>___</a>	 | 	Repository  	|
 | 	04	     | 	Revealing Soon	    | 	<a>___</a>	 | 	Repository  	|
-| 	05	     | 	Todo in React	      | 	<a href="https://todo-r.netlify.app/">Link</a>	 | 	PVT  	|
+| 	05	     | 	Todo in React	      | 	<a href="https://todo-r.netlify.app/" target="_blank">Link</a>	 | 	PVT  	|
 
 <br></br>
 
