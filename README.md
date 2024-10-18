@@ -259,8 +259,8 @@
 
 | 	S.No	   | 	Mini Major Project	| 	Live Link	   |   GitHub Link  |
 | 	:-----:	 | 	:------------:      | 	:---------:  | 	:----------:  |
-| 	01	     | 	Coffee Website      | 	<a href="https://jovial-kleicha-bbe26e.netlify.app/">Link</a>	 |	PVT  |
-| 	02	     | 	Amazon        	    | 	<a href="https://splendorous-donut-ef9268.netlify.app/">Link</a>	 |	PVT  |
+| 	01	     | 	Coffee Website      | 	<a href="https://himanshu151281.github.io/Coffee_Website/">Link</a>	 |	PVT  |
+| 	02	     | 	Amazon        	    | 	<a href="https://himanshu151281.github.io/Amazon/">Link</a>	 |	PVT  |
 | 	03       | 	Revealing Soon	    | 	<a>___</a>	 | 	Repository  	|
 | 	04	     | 	Revealing Soon	    | 	<a>___</a>	 | 	Repository  	|
 | 	05	     | 	Todo in React	      | 	<a href="https://todo-r.netlify.app/" target="_blank">Link</a>	 | 	PVT  	|
@@ -270,8 +270,8 @@
 | 	S.No	   | 	Mini Project	  | 	Live Link	   |   GitHub Link  |
 | 	:-----:	 | 	:------------:  | 	:---------:  | 	:----------:  |
 | 	01	     | 	Spotify Clone 	| 	<a href="https://rainbow-babka-cf31fd.netlify.app/">Link</a>|	PVT  |
-| 	02	     | 	Login Form    	| 	<a href="https://monumental-travesseiro-ae76ca.netlify.app/">Link</a>	 |	PVT  |
-| 	03	     | 	Sidebar Menu  	| 	<a href="https://vermillion-choux-8dbee7.netlify.app/">Link</a>	 |	PVT  |
+| 	02	     | 	Login Form    	| 	<a href="https://himanshu151281.github.io/Login_Form/">Link</a>	 |	PVT  |
+| 	03	     | 	Sidebar Menu  	| 	<a href="https://himanshu151281.github.io/Sidebar_menu/">Link</a>	 |	PVT  |
 | 	04	     | 	Revealing Soon	| 	<a>___</a>	 | 	Repository  	|
 | 	05	     | 	Revealing Soon	| 	<a>___</a>	 | 	Repository  	|
 
