@@ -248,10 +248,10 @@
   
 | 	S.No	   | 	Major Project	  | 	Live Link	   |   GitHub Link  |
 | 	:-----:	 | 	:------------:  | 	:---------:  | 	:----------:  |
-| 	01	     |  Airbnb Project	| 	<a>Soon</a>	 |		PVT   |
-| 	02	     | 	AI Connect	    | 	<a>Soon</a>	 |   	PVT  	|
-| 	03       | 	Event Mapper   	| 	<a>Soon</a>	 |  	PVT  	|
-| 	04	     | 	ESPORTS     	  | 	<a>Soon</a>	 |  	PVT  	|
+| 	01	     | 	AI Connect	    | 	<a>Soon</a>	 |   	 PVT       	|
+| 	02	     |  Airbnb Project	| 	<a>Soon</a>	 |	   PVT        |
+| 	03       | 	Event Mapper   	| 	<a>Soon</a>	 |  	 PVT       	|
+| 	04	     | 	ESPORTS     	  | 	<a>Soon</a>	 |  	 PVT       	|
 | 	05	     | 	Revealing Soon	| 	<a>___</a>	 | 	Repository  	|
 <!-- | 	01	     |  Airbnb Project	| 	<a href="https://wanderlust-xlp1.onrender.com/listings">Link</a>	 |	PVT  | -->
 
@@ -259,19 +259,19 @@
 
 | 	S.No	   | 	Mini Major Project	| 	Live Link	   |   GitHub Link  |
 | 	:-----:	 | 	:------------:      | 	:---------:  | 	:----------:  |
-| 	01	     | 	Coffee Website      | 	<a href="https://himanshu151281.github.io/Coffee_Website/">Link</a>	 |	PVT  |
-| 	02	     | 	Amazon        	    | 	<a href="https://himanshu151281.github.io/Amazon/">Link</a>	 |	PVT  |
-| 	03       | 	Revealing Soon	    | 	<a>___</a>	 | 	Repository  	|
-| 	04	     | 	Revealing Soon	    | 	<a>___</a>	 | 	Repository  	|
-| 	05	     | 	Todo in React	      | 	<a href="https://todo-r.netlify.app/" target="_blank">Link</a>	 | 	PVT  	|
+| 	01	     | 	Coffee Website      | 	<a href="https://himanshu151281.github.io/Coffee_Website/">Link</a>	    |	PVT |
+| 	02	     | 	Amazon        	    | 	<a href="https://himanshu151281.github.io/Amazon/">Link</a>	            |	PVT |
+| 	03       | 	Spotify Clone 	    | 	<a href="https://rainbow-babka-cf31fd.netlify.app/">Link</a>            |	PVT |
+| 	04	     | 	Login Form    	    | 	<a href="https://himanshu151281.github.io/Login_Form/">Link</a>	        |	PVT |
+| 	05	     | 	Sidebar Menu  	    | 	<a href="https://himanshu151281.github.io/Sidebar_menu/">Link</a>	      |	PVT |
 
 <br></br>
 
 | 	S.No	   | 	Mini Project	  | 	Live Link	   |   GitHub Link  |
 | 	:-----:	 | 	:------------:  | 	:---------:  | 	:----------:  |
-| 	01	     | 	Spotify Clone 	| 	<a href="https://rainbow-babka-cf31fd.netlify.app/">Link</a>|	PVT  |
-| 	02	     | 	Login Form    	| 	<a href="https://himanshu151281.github.io/Login_Form/">Link</a>	 |	PVT  |
-| 	03	     | 	Sidebar Menu  	| 	<a href="https://himanshu151281.github.io/Sidebar_menu/">Link</a>	 |	PVT  |
+| 	01	     | 	Todo in React	  | 	<a href="https://todo-r.netlify.app/">Link</a>	                   | PVT |
+| 	02	     | 	Todo in DOM    	| 	<a href="https://himanshu151281.github.io/Todo-in-DOM/">Link</a>	 | PVT |
+| 	03	     | 	Revealing Soon	| 	<a>___</a>	 | 	Repository  	|
 | 	04	     | 	Revealing Soon	| 	<a>___</a>	 | 	Repository  	|
 | 	05	     | 	Revealing Soon	| 	<a>___</a>	 | 	Repository  	|
 
