@@ -248,11 +248,11 @@
   
 | 	S.No	   | 	Major Project	  | 	Live Link	   |   GitHub Link  |
 | 	:-----:	 | 	:------------:  | 	:---------:  | 	:----------:  |
-| 	01	     | 	AI Connect	    | 	<a>Soon</a>	 |   	 PVT       	|
-| 	02	     |  Airbnb Project	| 	<a>Soon</a>	 |	   PVT        |
-| 	03       | 	Event Mapper   	| 	<a>Soon</a>	 |  	 PVT       	|
-| 	04	     | 	ESPORTS     	  | 	<a>Soon</a>	 |  	 PVT       	|
-| 	05	     | 	Revealing Soon	| 	<a>___</a>	 | 	Repository  	|
+| 	01	     | 	AI Connect	    | 	<a>Soon</a>	 | <a href="https://github.com/Himanshu151281/AI-Connect">Link</a> |
+| 	02	     |  Airbnb Project	| 	<a>Soon</a>	 |	   PVT                                                         |
+| 	03       | 	Event Mapper   	| 	<a>Soon</a>	 |  	 PVT       	                                                 |
+| 	04	     | 	ESPORTS     	  | 	<a>Soon</a>	 |  	 PVT       	                                                 |
+| 	05	     | 	Revealing Soon	| 	<a>___</a>	 | 	Repository  	                                                 |
 <!-- | 	01	     |  Airbnb Project	| 	<a href="https://wanderlust-xlp1.onrender.com/listings">Link</a>	 |	PVT  | -->
 
 <br></br>
