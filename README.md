@@ -310,8 +310,8 @@
 | 	S.No	   | 	Mini Project	  | 	Live Link	   |
 | 	:-----:	 | 	:------------:  | 	:---------:  |
 | 	01	     | 	Todo in React	  | 	<a href="https://todo-r.netlify.app/">Link</a>	                   |
-| 	02	     | 	Todo in DOM    	| 	<a href="https://himanshu151281.github.io/Todo-in-DOM/">Link</a>	 |
-| 	03	     | 	Revealing Soon	| 	<a>___</a>	 |
+| 	02	     | 	Joke Generator	| 	<a href="https://jokes-generator-by-hk.netlify.app/">Link</a>	 |
+| 	03	     | 	Todo in DOM    	| 	<a href="https://himanshu151281.github.io/Todo-in-DOM/">Link</a>	 |
 | 	04	     | 	Revealing Soon	| 	<a>___</a>	 |
 | 	05	     | 	Revealing Soon	| 	<a>___</a>	 |
 
