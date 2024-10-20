@@ -166,12 +166,38 @@
       alt="github logo" />
     <img width="12"
   /></a>
+  <br>
+  <br>
   <a>
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg"
       height="40"
       alt="socketio logo"
   /></a>
+  <a>
+   <img 
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" 
+     height="40" 
+     alt="googlecloud logo"  /> 
+  </a>
+  <a>
+    <img
+    src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white"
+      alt="render"
+      />
+  </a>
+  <a>
+    <img
+      src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="vercel"
+      />
+  </a>
+  <a>
+    <img
+      src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"
+      alt="netlify"
+      />
+  </a>
 </p>
 
 <br />
