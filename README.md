@@ -307,13 +307,13 @@
 
 <br></br>
 
-| 	S.No	   | 	Mini Project	  | 	Live Link	   |   GitHub Link  |
-| 	:-----:	 | 	:------------:  | 	:---------:  | 	:----------:  |
-| 	01	     | 	Todo in React	  | 	<a href="https://todo-r.netlify.app/">Link</a>	                   | PVT |
-| 	02	     | 	Todo in DOM    	| 	<a href="https://himanshu151281.github.io/Todo-in-DOM/">Link</a>	 | PVT |
-| 	03	     | 	Revealing Soon	| 	<a>___</a>	 | 	Repository  	|
-| 	04	     | 	Revealing Soon	| 	<a>___</a>	 | 	Repository  	|
-| 	05	     | 	Revealing Soon	| 	<a>___</a>	 | 	Repository  	|
+| 	S.No	   | 	Mini Project	  | 	Live Link	   |
+| 	:-----:	 | 	:------------:  | 	:---------:  |
+| 	01	     | 	Todo in React	  | 	<a href="https://todo-r.netlify.app/">Link</a>	                   |
+| 	02	     | 	Todo in DOM    	| 	<a href="https://himanshu151281.github.io/Todo-in-DOM/">Link</a>	 |
+| 	03	     | 	Revealing Soon	| 	<a>___</a>	 |
+| 	04	     | 	Revealing Soon	| 	<a>___</a>	 |
+| 	05	     | 	Revealing Soon	| 	<a>___</a>	 |
 
 
 </div>
