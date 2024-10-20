@@ -11,6 +11,45 @@
 </p>
 <br />
 
+# 🌐 Let's connect
+<br />
+<div align="left">
+  <a href="https://www.linkedin.com/in/himanshu-kumar151281" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+      width="52"
+      height="40"
+      alt="linkedin logo"
+    />
+  </a>
+  <a href="https://x.com/x_himanshukumar">
+  <img 
+    src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" 
+    width="52" 
+    height="40" 
+    alt="twitter logo"  />
+  </a>
+  <a href="mailto:himanshu151281@gmail.com" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
+      width="52"
+      height="40"
+      alt="gmail logo"
+    />
+  </a>
+    <a href="https://www.instagram.com/ig_himanshukumar/" target="_blank">
+    <img 
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" 
+      width="52" 
+      height="40" 
+      alt="instagram logo"  
+      />
+  </a>
+</div>
+
+<br />
+<br />
+
 # 💻 Tech Stack
 
 <br />
@@ -167,7 +206,6 @@
     <img width="12"
   /></a>
   <br>
-  <br>
   <a>
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg"
@@ -201,32 +239,8 @@
 </p>
 
 <br />
+<br />
 
-# 🌐 Socials
-<br />
-<div align="left">
-  <a href="https://www.linkedin.com/in/himanshu-kumar151281" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
-      width="52"
-      height="40"
-      alt="linkedin logo"
-    />
-  </a>
-  <!--   <a href="https://www.instagram.com/ig_himanshukumar/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a> -->
-  <a href="mailto:himanshu151281@gmail.com" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
-      width="52"
-      height="40"
-      alt="gmail logo"
-    />
-  </a>
-</div>
-<br />
-<br />
 <h1>🏆 GitHub Trophies</h1>
 <br />
 
