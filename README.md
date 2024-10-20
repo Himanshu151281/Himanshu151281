@@ -288,7 +288,7 @@
   
 | 	S.No	   | 	Major Project	  | 	Live Link	   |   GitHub Link  |
 | 	:-----:	 | 	:------------:  | 	:---------:  | 	:----------:  |
-| 	01	     | 	AI Connect	    | 	<a>Soon</a>	 | <a href="https://github.com/Himanshu151281/AI-Connect">Link</a> |
+| 	01	     | 	AI Connect	    | 	<a>Soon</a>	 |     PVT                                                         |
 | 	02	     |  Airbnb Project	| 	<a>Soon</a>	 |	   PVT                                                         |
 | 	03       | 	Event Mapper   	| 	<a>Soon</a>	 |  	 PVT       	                                                 |
 | 	04	     | 	ESPORTS     	  | 	<a>Soon</a>	 |  	 PVT       	                                                 |
@@ -299,11 +299,11 @@
 
 | 	S.No	   | 	Mini Major Project	| 	Live Link	   |   GitHub Link  |
 | 	:-----:	 | 	:------------:      | 	:---------:  | 	:----------:  |
-| 	01	     | 	Coffee Website      | 	<a href="https://himanshu151281.github.io/Coffee_Website/">Link</a>	    |	PVT |
-| 	02	     | 	Amazon        	    | 	<a href="https://himanshu151281.github.io/Amazon/">Link</a>	            |	PVT |
-| 	03       | 	Spotify Clone 	    | 	<a href="https://rainbow-babka-cf31fd.netlify.app/">Link</a>            |	PVT |
-| 	04	     | 	Login Form    	    | 	<a href="https://himanshu151281.github.io/Login_Form/">Link</a>	        |	PVT |
-| 	05	     | 	Sidebar Menu  	    | 	<a href="https://himanshu151281.github.io/Sidebar_menu/">Link</a>	      |	PVT |
+| 	01	     | 	Coffee Website      | 	<a href="https://himanshu151281.github.io/Coffee_Website/">Link</a>	    |	<a href="https://github.com/Himanshu151281/Coffee_Website">Repository</a> |
+| 	02	     | 	Amazon        	    | 	<a href="https://himanshu151281.github.io/Amazon/">Link</a>	            |	<a href="https://github.com/Himanshu151281/Amazon">Repository</a>         |
+| 	03       | 	Spotify Clone 	    | 	<a href="https://rainbow-babka-cf31fd.netlify.app/">Link</a>            |	PVT                                                                       |
+| 	04	     | 	Login Form    	    | 	<a href="https://himanshu151281.github.io/Login_Form/">Link</a>	        |	<a href="https://github.com/Himanshu151281/Login_Form">Repository</a>     |
+| 	05	     | 	Sidebar Menu  	    | 	<a href="https://himanshu151281.github.io/Sidebar_menu/">Link</a>	      |	<a href="https://github.com/Himanshu151281/Sidebar_menu">Repository</a>   |
 
 <br></br>
 
