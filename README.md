@@ -314,6 +314,7 @@
 | 	03	     | 	Todo in DOM    	| 	<a href="https://himanshu151281.github.io/Todo-in-DOM/">Link</a>	 |
 | 	04	     | 	Revealing Soon	| 	<a>___</a>	 |
 | 	05	     | 	Revealing Soon	| 	<a>___</a>	 |
+| 	06	     | 	Simple Sidebar	| 	<a href="https://himanshu151281.github.io/Simple-Sidebar/">Link</a>	 |
 
 
 </div>
