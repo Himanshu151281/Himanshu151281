@@ -208,6 +208,11 @@
   <br>
   <a>
     <img
+      src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"
+      alt="socket.io"
+  /></a>
+  <a>
+    <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg"
       height="40"
       alt="socketio logo"
