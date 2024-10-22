@@ -317,7 +317,7 @@
 
 | 	S.No	   | 	Mini Project	  | 	Live Link	   |   GitHub Link  |
 | 	:-----:	 | 	:------------:  | 	:---------:  | 	 :---------:  |
-| 	01	     | 	Todo in DOM    	| 	<a href="https://himanshu151281.github.io/Todo-in-DOM/">Link</a>	      | PVT                                                                       |
+| 	01	     | 	Todo in DOM    	| 	<a href="https://himanshu151281.github.io/Todo-in-DOM/">Link</a>	      | <a href="https://github.com/Himanshu151281/Todo-in-DOM">Repository</a> |
 | 	02	     | 	Login Form    	| 	<a href="https://himanshu151281.github.io/Login_Form/">Link</a>	        |	<a href="https://github.com/Himanshu151281/Login_Form">Repository</a>     |
 | 	03	     | 	Sidebar Menu  	| 	<a href="https://himanshu151281.github.io/Sidebar_menu/">Link</a>	      |	<a href="https://github.com/Himanshu151281/Sidebar_menu">Repository</a>   |
 | 	04	     | 	Todo in JS    	| 	<a href="https://himanshu151281.github.io/Todo-in-JS/">Link</a>	        | PVT                                                                       |
