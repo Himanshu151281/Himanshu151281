@@ -309,6 +309,8 @@
 | 	03       | 	Spotify Clone 	    | 	<a href="https://rainbow-babka-cf31fd.netlify.app/">Link</a>            |	PVT                                                                       |
 | 	04	     | 	Login Form    	    | 	<a href="https://himanshu151281.github.io/Login_Form/">Link</a>	        |	<a href="https://github.com/Himanshu151281/Login_Form">Repository</a>     |
 | 	05	     | 	Sidebar Menu  	    | 	<a href="https://himanshu151281.github.io/Sidebar_menu/">Link</a>	      |	<a href="https://github.com/Himanshu151281/Sidebar_menu">Repository</a>   |
+| 	06	     | 	Revealing Soon	| 	<a>___</a>	 |
+| 	07	     | 	Revealing Soon	| 	<a>___</a>	 |
 
 <br></br>
 
@@ -317,7 +319,7 @@
 | 	01	     | 	Todo in React	  | 	<a href="https://todo-r.netlify.app/">Link</a>	                   |
 | 	02	     | 	Joke Generator	| 	<a href="https://jokes-generator-by-hk.netlify.app/">Link</a>	 |
 | 	03	     | 	Todo in DOM    	| 	<a href="https://himanshu151281.github.io/Todo-in-DOM/">Link</a>	 |
-| 	04	     | 	Revealing Soon	| 	<a>___</a>	 |
+| 	04	     | 	Cat Fact      	| 	<a href="https://cat-facts-by-hk.netlify.app/">Link</a>	 |
 | 	05	     | 	Todo in JS    	| 	<a href="https://himanshu151281.github.io/Todo-in-JS/">Link</a>	 |
 | 	06	     | 	Simple Sidebar	| 	<a href="https://himanshu151281.github.io/Simple-Sidebar/">Link</a>	 |
 
