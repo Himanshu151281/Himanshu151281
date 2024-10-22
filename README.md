@@ -293,11 +293,11 @@
   
 | 	S.No	   | 	Major Project	  | 	Live Link	   |   GitHub Link  |
 | 	:-----:	 | 	:------------:  | 	:---------:  | 	:----------:  |
-| 	01	     | 	AI Connect	    | 	<a>Soon</a>	 |     PVT                                                         |
-| 	02	     |  Airbnb Project	| 	<a>Soon</a>	 |	   PVT                                                         |
-| 	03       | 	Event Mapper   	| 	<a>Soon</a>	 |  	 PVT       	                                                 |
-| 	04	     | 	ESPORTS     	  | 	<a>Soon</a>	 |  	 PVT       	                                                 |
-| 	05	     | 	Revealing Soon	| 	<a>___</a>	 |  	 PVT       	                                                 |
+| 	01	     | 	AI Connect	    | 	<a>Soon</a>	 |     PVT                                                                  |
+| 	02	     |  Airbnb Project	| 	<a>Soon</a>	 | <a href="https://wanderlust-xlp1.onrender.com/listings">Repository</a>   |
+| 	03       | 	Event Mapper   	| 	<a>Soon</a>	 |  	 PVT       	                                                          |
+| 	04	     | 	ESPORTS     	  | 	<a>Soon</a>	 |  	 PVT       	                                                          |
+| 	05	     | 	Revealing Soon	| 	<a>___</a>	 |  	 PVT       	                                                          |
 <!-- | 	01	     |  Airbnb Project	| 	<a href="https://wanderlust-xlp1.onrender.com/listings">Link</a>	 |	PVT  | -->
 
 <br></br>
@@ -306,22 +306,22 @@
 | 	:-----:	 | 	:------------:      | 	:---------:  | 	:----------:  |
 | 	01	     | 	Coffee Website      | 	<a href="https://himanshu151281.github.io/Coffee_Website/">Link</a>	    |	<a href="https://github.com/Himanshu151281/Coffee_Website">Repository</a> |
 | 	02	     | 	Amazon        	    | 	<a href="https://himanshu151281.github.io/Amazon/">Link</a>	            |	<a href="https://github.com/Himanshu151281/Amazon">Repository</a>         |
-| 	03       | 	Spotify Clone 	    | 	<a href="https://rainbow-babka-cf31fd.netlify.app/">Link</a>            |	PVT                                                                       |
+| 	03       | 	Spotify Clone 	    | 	<a href="https://himanshu151281.github.io/Spotify/">Link</a>            |	<a href="https://github.com/Himanshu151281/Spotify">Repository</a>        |         |
 | 	04	     | 	Todo in React	      | 	<a href="https://todo-r.netlify.app/">Link</a>	                        |	PVT                                                                       |
 | 	05	     | 	Joke Generator	    | 	<a href="https://jokes-generator-by-hk.netlify.app/">Link</a>	          |	PVT                                                                       |
 | 	06	     | 	Cat Fact      	    | 	<a href="https://cat-facts-by-hk.netlify.app/">Link</a>	                |	PVT                                                                       |
-| 	07	     | 	Revealing Soon	    | 	<a>___</a>	 |  	 PVT       	                                                 |
-| 	08	     | 	Revealing Soon	    | 	<a>___</a>	 |  	 PVT       	                                                 |
+| 	07	     | 	Revealing Soon	    | 	<a>___</a>	                                                            | PVT                      	                                                |
+| 	08	     | 	Revealing Soon	    | 	<a>___</a>	                                                            | PVT                     	                                                |
 
 <br></br>
 
 | 	S.No	   | 	Mini Project	  | 	Live Link	   |   GitHub Link  |
 | 	:-----:	 | 	:------------:  | 	:---------:  | 	 :---------:  |
-| 	01	     | 	Todo in DOM    	| 	<a href="https://himanshu151281.github.io/Todo-in-DOM/">Link</a>	      | <a href="https://github.com/Himanshu151281/Todo-in-DOM">Repository</a> |
-| 	02	     | 	Login Form    	| 	<a href="https://himanshu151281.github.io/Login_Form/">Link</a>	        |	<a href="https://github.com/Himanshu151281/Login_Form">Repository</a>     |
-| 	03	     | 	Sidebar Menu  	| 	<a href="https://himanshu151281.github.io/Sidebar_menu/">Link</a>	      |	<a href="https://github.com/Himanshu151281/Sidebar_menu">Repository</a>   |
-| 	04	     | 	Todo in JS    	| 	<a href="https://himanshu151281.github.io/Todo-in-JS/">Link</a>	        | PVT                                                                       |
-| 	05	     | 	Simple Sidebar	| 	<a href="https://himanshu151281.github.io/Simple-Sidebar/">Link</a>	    | PVT                                                                       |
+| 	01	     | 	Login Form    	| 	<a href="https://himanshu151281.github.io/Login_Form/">Link</a>	        |	<a href="https://github.com/Himanshu151281/Login_Form">Repository</a>     |
+| 	02	     | 	Sidebar Menu  	| 	<a href="https://himanshu151281.github.io/Sidebar_menu/">Link</a>	      |	<a href="https://github.com/Himanshu151281/Sidebar_menu">Repository</a>   |
+| 	03	     | 	Todo in DOM    	| 	<a href="https://himanshu151281.github.io/Todo-in-DOM/">Link</a>	      | <a href="https://github.com/Himanshu151281/Todo-in-DOM">Repository</a>    |
+| 	04	     | 	Simple Sidebar	| 	<a href="https://himanshu151281.github.io/Simple-Sidebar/">Link</a>	    | <a href="https://github.com/Himanshu151281/Simple-Sidebar">Repository</a> |
+| 	05	     | 	Todo in JS    	| 	<a href="https://himanshu151281.github.io/Todo-in-JS/">Link</a>	        | PVT                                                                       |
 
 
 </div>
