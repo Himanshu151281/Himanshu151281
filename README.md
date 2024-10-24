@@ -304,14 +304,14 @@
 
 | 	S.No	   | 	Mini Major Project	| 	Live Link	   |   GitHub Link  |
 | 	:-----:	 | 	:------------:      | 	:---------:  | 	:----------:  |
-| 	01	     | 	Coffee Website      | 	<a href="https://himanshu151281.github.io/Coffee_Website/">Link</a>	    |	<a href="https://github.com/Himanshu151281/Coffee_Website">Repository</a> |
-| 	02	     | 	Amazon        	    | 	<a href="https://himanshu151281.github.io/Amazon/">Link</a>	            |	<a href="https://github.com/Himanshu151281/Amazon">Repository</a>         |
-| 	03       | 	Spotify Clone 	    | 	<a href="https://himanshu151281.github.io/Spotify/">Link</a>            |	<a href="https://github.com/Himanshu151281/Spotify">Repository</a>        |         |
-| 	04	     | 	Todo in React	      | 	<a href="https://todo-r.netlify.app/">Link</a>	                        |	PVT                                                                       |
-| 	05	     | 	Joke Generator	    | 	<a href="https://jokes-generator-by-hk.netlify.app/">Link</a>	          |	PVT                                                                       |
-| 	06	     | 	Cat Fact      	    | 	<a href="https://cat-facts-by-hk.netlify.app/">Link</a>	                |	PVT                                                                       |
-| 	07	     | 	Redux Todo    	    | 	<a href="https://redux-todo-by-hk.netlify.app/">Link</a>	              | <a href="https://github.com/Himanshu151281/Redux_Todo">Repository</a>     |
-| 	08	     | 	Revealing Soon	    | 	<a>___</a>	                                                            | PVT                     	                                                |
+| 	01	     | 	Coffee Website      | 	<a href="https://himanshu151281.github.io/Coffee_Website/">Link</a>	    |	<a href="https://github.com/Himanshu151281/Coffee_Website">Repository</a>   |
+| 	02	     | 	Amazon        	    | 	<a href="https://himanshu151281.github.io/Amazon/">Link</a>	            |	<a href="https://github.com/Himanshu151281/Amazon">Repository</a>           |
+| 	03       | 	Spotify Clone 	    | 	<a href="https://himanshu151281.github.io/Spotify/">Link</a>            |	<a href="https://github.com/Himanshu151281/Spotify">Repository</a>          | 
+| 	04	     | 	Todo in React	      | 	<a href="https://todo-r.netlify.app/">Link</a>	                        |	<a href="https://github.com/Himanshu151281/Todo-in-React">Repository</a>    |
+| 	05	     | 	Joke Generator	    | 	<a href="https://jokes-generator-by-hk.netlify.app/">Link</a>	          |	<a href="https://github.com/Himanshu151281/Joke-generator">Repository</a>   |
+| 	06	     | 	Cat Fact      	    | 	<a href="https://cat-facts-by-hk.netlify.app/">Link</a>	                |	<a href="https://github.com/Himanshu151281/Random-cat-fact">Repository</a>  |
+| 	07	     | 	Redux Todo    	    | 	<a href="https://redux-todo-by-hk.netlify.app/">Link</a>	              | <a href="https://github.com/Himanshu151281/Redux_Todo">Repository</a>       |
+| 	08	     | 	Revealing Soon	    | 	<a>___</a>	                                                            | PVT                     	                                                  |
 
 <br></br>
 
