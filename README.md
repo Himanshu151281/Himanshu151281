@@ -310,7 +310,7 @@
 | 	04	     | 	Todo in React	      | 	<a href="https://todo-r.netlify.app/">Link</a>	                        |	PVT                                                                       |
 | 	05	     | 	Joke Generator	    | 	<a href="https://jokes-generator-by-hk.netlify.app/">Link</a>	          |	PVT                                                                       |
 | 	06	     | 	Cat Fact      	    | 	<a href="https://cat-facts-by-hk.netlify.app/">Link</a>	                |	PVT                                                                       |
-| 	07	     | 	Revealing Soon	    | 	<a>___</a>	                                                            | PVT                      	                                                |
+| 	07	     | 	Redux Todo    	    | 	<a href="https://redux-todo-by-hk.netlify.app/">Link</a>	              | <a href="https://github.com/Himanshu151281/Redux_Todo">Repository</a>     |
 | 	08	     | 	Revealing Soon	    | 	<a>___</a>	                                                            | PVT                     	                                                |
 
 <br></br>
