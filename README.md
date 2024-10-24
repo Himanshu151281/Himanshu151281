@@ -321,7 +321,8 @@
 | 	02	     | 	Sidebar Menu  	| 	<a href="https://himanshu151281.github.io/Sidebar_menu/">Link</a>	      |	<a href="https://github.com/Himanshu151281/Sidebar_menu">Repository</a>   |
 | 	03	     | 	Todo in DOM    	| 	<a href="https://himanshu151281.github.io/Todo-in-DOM/">Link</a>	      | <a href="https://github.com/Himanshu151281/Todo-in-DOM">Repository</a>    |
 | 	04	     | 	Simple Sidebar	| 	<a href="https://himanshu151281.github.io/Simple-Sidebar/">Link</a>	    | <a href="https://github.com/Himanshu151281/Simple-Sidebar">Repository</a> |
-| 	05	     | 	Todo in JS    	| 	<a href="https://himanshu151281.github.io/Todo-in-JS/">Link</a>	        | PVT                                                                       |
+| 	05	     | 	Todo in JS    	| 	<a href="https://himanshu151281.github.io/Todo-in-JS/">Link</a>	        | <a href="https://github.com/Himanshu151281/Todo-in-JS">Repository</a>     |
+| 	06	     | 	Revealing Soon	| 	<a>___</a>	                                                            | PVT                     	                                                |
 
 
 </div>
