@@ -293,8 +293,8 @@
   
 | 	S.No	   | 	Major Project	  | 	Live Link	   |   GitHub Link  |
 | 	:-----:	 | 	:------------:  | 	:---------:  | 	:----------:  |
-| 	01	     |  Wanderlust      | 	<a href="https://wanderlust-hk.vercel.app/listings">Link</a>	             | <a href="https://github.com/Himanshu151281/Wanderlust_">Overview</a>  |
-| 	02	     | 	AI Connect	    | 	<a href="https://ai-connect-by-himanshu-singh.vercel.app/">Link</a>	       | <a href="https://github.com/Himanshu151281/AI-Connect">Overview</a>   |
+| 	01	     | 	AI Connect	    | 	<a href="https://ai-connect-by-himanshu-singh.vercel.app/">Link</a>	       | <a href="https://github.com/Himanshu151281/AI-Connect">Overview</a>   |
+| 	02	     |  Wanderlust      | 	<a href="https://wanderlust-hk.vercel.app/listings">Link</a>	             | <a href="https://github.com/Himanshu151281/Wanderlust_">Overview</a>  |
 | 	03       | 	Event Mapper   	| 	<a>Soon</a>	                                                               |  	 PVT       	                                                       |
 | 	04	     | 	ESPORTS     	  | 	<a>Soon</a>	                                                               |  	 PVT       	                                                       |
 | 	05	     | 	Revealing Soon	| 	<a>___</a>	                                                               |  	 PVT       	                                                       |
