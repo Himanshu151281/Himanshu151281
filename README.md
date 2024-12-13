@@ -328,9 +328,10 @@
 | 	04       | 	Article Summarizer  | 	<a href="https://article-summarizer-by-hk.netlify.app/">Link</a>        |	<a href="https://github.com/Himanshu151281/Article_Summarizer">Repository</a>|
 | 	05	     | 	Todo in React	      | 	<a href="https://todo-r.netlify.app/">Link</a>	                        |	<a href="https://github.com/Himanshu151281/Todo-in-React">Repository</a>     |
 | 	06	     | 	Joke Generator	    | 	<a href="https://jokes-generator-by-hk.netlify.app/">Link</a>	          |	<a href="https://github.com/Himanshu151281/Joke-generator">Repository</a>    |
-| 	07	     | 	Cat Fact      	    | 	<a href="https://cat-facts-by-hk.netlify.app/">Link</a>	                |	<a href="https://github.com/Himanshu151281/Random-cat-fact">Repository</a>   |
-| 	08	     | 	Redux Todo    	    | 	<a href="https://redux-todo-by-hk.netlify.app/">Link</a>	              | <a href="https://github.com/Himanshu151281/Redux_Todo">Repository</a>        |
-| 	09	     | 	Revealing Soon	    | 	<a>___</a>	                                                            | PVT                     	                                                   |
+| 	07	     |Todo using Context API| 	<a href="https://todo-in-context-api-by-hk.netlify.app/">Link</a>       | <a href="https://github.com/Himanshu151281/Context-API">Repository</a>       |
+| 	08	     | 	Cat Fact      	    | 	<a href="https://cat-facts-by-hk.netlify.app/">Link</a>	                |	<a href="https://github.com/Himanshu151281/Random-cat-fact">Repository</a>   |
+| 	09	     | 	Redux Todo    	    | 	<a href="https://redux-todo-by-hk.netlify.app/">Link</a>	              | <a href="https://github.com/Himanshu151281/Redux_Todo">Repository</a>        |
+| 	10	     | 	Revealing Soon	    | 	<a>___</a>	                                                            | PVT                     	                                                   |
 
 <br></br>
 
