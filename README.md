@@ -271,46 +271,6 @@
 
 <br />
 
-# 📊 GitHub Stats
-<br />
-
-<p align="center">
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu151281&"
-    alt="himanshu151281"
-  />
-</p>
-
-<br />
-<!--
-<p align="center">
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu151281&show_icons=true&locale=en&layout=compact"
-    alt="himanshu151281"
-  />
-</p>
-
-<br />
--->
-
-<p align="center">
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=himanshu151281&show_icons=true&locale=en"
-    alt="himanshu151281"
-  />
-</p>
-
-<br/>
-
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshu151281&radius=16&theme=arctic&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
-</p>
-
-<br />
-
 # 🤖 Projects
 
 <div align="center">
@@ -353,5 +313,48 @@
 
 
 </div>
+
+<br/>
+
+# 📊 GitHub Stats
+<br />
+
+<p align="center">
+  <img
+    align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu151281&"
+    alt="himanshu151281"
+  />
+</p>
+
+<br />
+<!--
+<p align="center">
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu151281&show_icons=true&locale=en&layout=compact"
+    alt="himanshu151281"
+  />
+</p>
+
+<br />
+-->
+
+<p align="center">
+  &nbsp;<img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=himanshu151281&show_icons=true&locale=en"
+    alt="himanshu151281"
+  />
+</p>
+
+<br/>
+
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshu151281&radius=16&theme=arctic&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
+</p>
+
+<br />
+
 
 <!-- Himanshu Kumar-->
