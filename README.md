@@ -303,6 +303,12 @@
   />
 </p>
 
+<br/>
+
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshu151281&radius=16&theme=arctic&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
+</p>
+
 <br />
 
 # 🤖 Projects
