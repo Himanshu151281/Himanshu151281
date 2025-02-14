@@ -298,7 +298,8 @@
 | 	08	     | 	Cat Fact      	    | 	<a href="https://cat-facts-by-hk.netlify.app/">Link</a>	                |	<a href="https://github.com/Himanshu151281/Random-cat-fact">Repository</a>   |
 | 	09	     | 	Redux Todo    	    | 	<a href="https://redux-todo-by-hk.netlify.app/">Link</a>	              | <a href="https://github.com/Himanshu151281/Redux_Todo">Repository</a>        |
 | 	10	     | 	React Router DOM    |<a href="https://react-router-dom-by-himanshu.netlify.app/">Link</a>|<a href="https://github.com/Himanshu151281/Client-side-routing-using-React-Router-Dom">Repository</a> |
-| 	11	     | 	Quiz Master   	    | 	<a href="https://quizmaster-by-himanshu.netlify.app/">Link</a>          | <a href="https://github.com/Himanshu151281/Quiz-Master">Repository</a>|
+| 	11	     | 	Quiz Master   	    | 	<a href="https://quizmaster-by-himanshu.netlify.app/">Link</a>          | <a href="https://github.com/Himanshu151281/Quiz-Master">Repository</a>       |
+| 	12	     | 	Study MBBS Abroad   | 	<a href="https://sma-by-himanshu-kumar.netlify.app/">Link</a>          | <a href="https://github.com/Himanshu151281/Study-MBBS-Abroad">Repository</a>  |
 
 <br></br>
 
