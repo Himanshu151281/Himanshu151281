@@ -290,18 +290,19 @@
 | 	S.No	   | 	Mini Major Project	| 	Live Link	   |   GitHub Link  |
 | 	:-----:	 | 	:------------:      | 	:---------:  | 	:----------:  |
 | 	01	     | 	Coffee Website      | 	<a href="https://himanshu151281.github.io/Coffee_Website/">Link</a>	    |	<a href="https://github.com/Himanshu151281/Coffee_Website">Repository</a>    |
-| 	02	     | 	Amazon        	    | 	<a href="https://himanshu151281.github.io/Amazon/">Link</a>	            |	<a href="https://github.com/Himanshu151281/Amazon">Repository</a>            |
-| 	03       | 	Spotify Clone 	    | 	<a href="https://himanshu151281.github.io/Spotify/">Link</a>            |	<a href="https://github.com/Himanshu151281/Spotify">Repository</a>           |
-| 	04       | 	Article Summarizer  | 	<a href="https://article-summarizer-by-hk.netlify.app/">Link</a>        |	<a href="https://github.com/Himanshu151281/Article_Summarizer">Repository</a>|
-| 	05	     | 	Todo in React	      | 	<a href="https://todo-r.netlify.app/">Link</a>	                        |	<a href="https://github.com/Himanshu151281/Todo-in-React">Repository</a>     |
-| 	06	     | 	Joke Generator	    | 	<a href="https://jokes-generator-by-hk.netlify.app/">Link</a>	          |	<a href="https://github.com/Himanshu151281/Joke-generator">Repository</a>    |
-| 	07	     |Todo using Context API| 	<a href="https://todo-in-context-api-by-hk.netlify.app/">Link</a>       | <a href="https://github.com/Himanshu151281/Context-API">Repository</a>       |
-| 	08	     | 	Cat Fact      	    | 	<a href="https://cat-facts-by-hk.netlify.app/">Link</a>	                |	<a href="https://github.com/Himanshu151281/Random-cat-fact">Repository</a>   |
-| 	09	     | 	Redux Todo    	    | 	<a href="https://redux-todo-by-hk.netlify.app/">Link</a>	              | <a href="https://github.com/Himanshu151281/Redux_Todo">Repository</a>        |
-| 	10	     | 	React Router DOM    |<a href="https://react-router-dom-by-himanshu.netlify.app/">Link</a>|<a href="https://github.com/Himanshu151281/Client-side-routing-using-React-Router-Dom">Repository</a> |
-| 	11	     | 	Quiz Master   	    | 	<a href="https://quizmaster-by-himanshu.netlify.app/">Link</a>          | <a href="https://github.com/Himanshu151281/Quiz-Master">Repository</a>       |
-| 	12	     | 	Study MBBS Abroad   | 	<a href="https://sma-by-himanshu-kumar.netlify.app/">Link</a>          | <a href="https://github.com/Himanshu151281/Study-MBBS-Abroad">Repository</a>  |
-| 	13	     | 	Coupon Carousel     | 	<a href="https://rrcd-by-himanshu-kumar.netlify.app/">Link</a>          | <a href="https://github.com/Himanshu151281/Round-Robin-Coupon-Distribution">Repository</a>  |
+| 	02	     | Mutual Funds Compass | 	<a href="https://mutual-funds-black.vercel.app">Link</a>	              |	<a href="--">Repository</a>                                                  |
+| 	03	     | 	Amazon        	    | 	<a href="https://himanshu151281.github.io/Amazon/">Link</a>	            |	<a href="https://github.com/Himanshu151281/Amazon">Repository</a>            |
+| 	04       | 	Spotify Clone 	    | 	<a href="https://himanshu151281.github.io/Spotify/">Link</a>            |	<a href="https://github.com/Himanshu151281/Spotify">Repository</a>           |
+| 	05       | 	Article Summarizer  | 	<a href="https://article-summarizer-by-hk.netlify.app/">Link</a>        |	<a href="https://github.com/Himanshu151281/Article_Summarizer">Repository</a>|
+| 	06	     | 	Todo in React	      | 	<a href="https://todo-r.netlify.app/">Link</a>	                        |	<a href="https://github.com/Himanshu151281/Todo-in-React">Repository</a>     |
+| 	07	     | 	Joke Generator	    | 	<a href="https://jokes-generator-by-hk.netlify.app/">Link</a>	          |	<a href="https://github.com/Himanshu151281/Joke-generator">Repository</a>    |
+| 	08	     |Todo using Context API| 	<a href="https://todo-in-context-api-by-hk.netlify.app/">Link</a>       | <a href="https://github.com/Himanshu151281/Context-API">Repository</a>       |
+| 	09	     | 	Cat Fact      	    | 	<a href="https://cat-facts-by-hk.netlify.app/">Link</a>	                |	<a href="https://github.com/Himanshu151281/Random-cat-fact">Repository</a>   |
+| 	10	     | 	Redux Todo    	    | 	<a href="https://redux-todo-by-hk.netlify.app/">Link</a>	              | <a href="https://github.com/Himanshu151281/Redux_Todo">Repository</a>        |
+| 	11	     | 	React Router DOM    |<a href="https://react-router-dom-by-himanshu.netlify.app/">Link</a>|<a href="https://github.com/Himanshu151281/Client-side-routing-using-React-Router-Dom">Repository</a> |
+| 	12	     | 	Quiz Master   	    | 	<a href="https://quizmaster-by-himanshu.netlify.app/">Link</a>          | <a href="https://github.com/Himanshu151281/Quiz-Master">Repository</a>       |
+| 	13	     | 	Study MBBS Abroad   | 	<a href="https://sma-by-himanshu-kumar.netlify.app/">Link</a>          | <a href="https://github.com/Himanshu151281/Study-MBBS-Abroad">Repository</a>  |
+| 	14	     | 	Coupon Carousel     | 	<a href="https://rrcd-by-himanshu-kumar.netlify.app/">Link</a>          | <a href="https://github.com/Himanshu151281/Round-Robin-Coupon-Distribution">Repository</a>  |
 
 <br></br>
 
