@@ -294,7 +294,7 @@
 | 	S.No	   | 	Major Project	  | 	Live Link	   |   GitHub Link  |
 | 	:-----:	 | 	:------------:  | 	:---------:  | 	:----------:  |
 | 	01	     | 	AI Connect	    | 	<a href="https://ai-connect-by-himanshu-singh.vercel.app/">Link</a>	       | <a href="https://github.com/Himanshu151281/AI-Connect">Overview</a>   |
-| 	02       | 	ntan          	| 	<a href="https://ntan-frontend.vercel.app">Link</a>                        |     PVT                                                               |
+| 	02       | 	ntan          	| 	<a href="https://ntan-frontend.vercel.app">Link</a>                        | <a href="https://github.com/Himanshu151281/F_P_0.0.2">Overview</a>    |
 | 	03	     | 	MediMated     	| 	<a href="https://medi-mated-frontend.vercel.app">Link</a>                  |  	 PVT       	                                                       |
 | 	04	     |  Airbnb          | 	<a href="https://wanderlust-hk.vercel.app/listings">Link</a>	             | <a href="https://github.com/Himanshu151281/Wanderlust_">Overview</a>  |
 | 	05       | 	Event Mapper   	| 	<a href="https://event-mapper.vercel.app/listings">Link</a>                | <a href="https://github.com/Himanshu151281/Event-Mapper_">Overview</a>|
